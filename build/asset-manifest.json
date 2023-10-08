@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Siddhi_Portfolio/static/css/main.1dba509a.css",
+    "main.js": "/Siddhi_Portfolio/static/js/main.c4fdfbfa.js",
+    "static/media/CV.pdf": "/Siddhi_Portfolio/static/media/CV.682aefbe221665284fe7.pdf",
+    "static/media/a4.png": "/Siddhi_Portfolio/static/media/a4.25d043a925819509f1e9.png",
+    "static/media/ME.png": "/Siddhi_Portfolio/static/media/ME.5fe76ef19ce025f2060b.png",
+    "static/media/portfoliog.png": "/Siddhi_Portfolio/static/media/portfoliog.c3922e17d84cbeaafbd7.png",
+    "static/media/portfolioh.png": "/Siddhi_Portfolio/static/media/portfolioh.6156c2bdffeda66c1bf5.png",
+    "static/media/abcd1.png": "/Siddhi_Portfolio/static/media/abcd1.4132051b07676d3bb46b.png",
+    "index.html": "/Siddhi_Portfolio/index.html",
+    "main.1dba509a.css.map": "/Siddhi_Portfolio/static/css/main.1dba509a.css.map",
+    "main.c4fdfbfa.js.map": "/Siddhi_Portfolio/static/js/main.c4fdfbfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dba509a.css",
+    "static/js/main.c4fdfbfa.js"
+  ]
+}
